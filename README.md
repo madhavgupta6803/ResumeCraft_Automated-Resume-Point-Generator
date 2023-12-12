@@ -1,1 +1,17 @@
 # ResumeCraft_Automated-Resume-Point-Generator
+The quest for the ideal job begins with a com-
+pelling resume, a challenge that ”ResumeCraft” addresses with
+groundbreaking AI technology. This innovative project stands out
+by utilizing a large language model (LLM) that is finely tuned
+with a database of successful resumes. ResumeCraft is specifically
+designed to assist job and internship seekers craft resumes that
+resonate with the key elements that have historically led to
+successful job applications. ResumeCraft’s LLM goes beyond
+basic keyword matching; it understands the nuances of different
+job roles and tailors the resume content accordingly. Users input
+their work history and skills and receive customized suggestions
+that highlight their strengths that align with what has proven
+successful in their chosen field. With its user-friendly interface
+and powerful backend, ResumeCraft aims to reduce the stress
+and uncertainty of resume writing, making it an indispensable
+tool for job and intern seekers
