@@ -16,4 +16,5 @@ and uncertainty of resume writing, making it an indispensable
 tool for job and intern seekers
 ### This is the link for the video demonstrating the project
 https://drive.google.com/file/d/1lMDJrW3-QwE2OrpMZt18Suq37oehr2g7/view?usp=sharing
-
+### Below is the link of the UI demo on streamlit
+https://drive.google.com/file/d/1tebormuX8y64N88jW1S-nFDzpjrHdmt2/view?usp=sharing
