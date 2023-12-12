@@ -1,0 +1,206 @@
+[
+{
+    "input": "Lego Image Classifier - Computer Vision, Self Project",
+    "output": [
+        "Built a multi-class classifier with Keras, which can classify Lego images into 16 distinct classes using state of the art VGG16 algorithm, achieving 95% training accuracy",
+        "Given data was a folder containing 4500 images and a CSV file with respective class labels. Using Python, segregated them into 16 folders with each type of Lego to feed to CNN"
+    ]
+},
+{
+    "input": "Remote Controlled Bot XLR8, Electronics and Robotics Club, IT Bombay",
+    "output": [
+        "Designed a Bluetooth controlled bot, which maneuvered using an Android app, in a team of 4 students",
+        "Used ATtiny and L293D to develop a differential steering mechanism and implemented it in the bot",
+        "Designed the electrical circuit and optimised the bot to complete an obstacle course of 8 obstacles"
+    ]
+},
+
+
+{
+    "input": "lib, NLTK, C++",
+    "output": [
+        "Developed a library in C++ for natural language processing using NLTK.",
+        "Implemented various algorithms for text classification, tokenization, stemming, lemmatization, part-of-speech tagging, and sentiment analysis."
+    ]
+},
+{
+    "input": "ROS, SQL, Adobe Photoshop, Adobe Illustrator, SolidWorks, AutoCad",
+    "output": [
+        "Developed a robotic arm using ROS and SQL for controlling the arm and storing the data.",
+        "Created 3D models using SolidWorks and AutoCad.",
+        "Designed logos and posters using Adobe Photoshop and Adobe Illustrator."
+    ]
+},
+{
+    "input": "Coursera",
+    "output": [
+        "Completed TensorFlow In Practice (Specialization : 4 Courses) and Introduction to Machine Learning (Stanford) from Coursera.",
+        "Completed Deep Learning and Neural Networks (deeplearning.ai) from Coursera."
+    ]
+},
+
+{
+    "input": "DAQ & CAN Subsystem, IIT Bombay Racing Team",
+    "output": [
+        "Designed the peripheral circuitry of CAN Transceiver SN6SHVD2301 on Eagle and tested it using Teensy",
+        "Endeavoured the replacement of TEENSY microcontroller with the more robust AT MEGA16 in CAN nodes."
+    ]
+},
+{
+    "input": "Hypothesis Testing in Python",
+    "output": [
+        "Employed the t-statistical method to test the validity of commonly accepted claims about a population such as “University towns had their mean housing prices less effected during the 2008 recession”",
+        "Used Pandas and NumPy to carry out the required data manipulation and SciPy for final juxtaposition"
+    ]
+},
+{
+    "input": "Kaggle Projects | Subsidiary of Google LLC Summer",
+    "output": [
+        "Housing prices, Regression: Predicted lowa housing prices based on 79 different features with MSE below 0",
+        "Titanic, Classification: Predicted survival of passengers based on 11 features with 80% accuracy."
+    ]},
+
+
+{
+    "input": "ECU & DAQ,, IIT Bombay Racing Team",
+    "output": [
+        "Completed the study on Electronic Control Unit as an Electrical Trainee and studied the working of Position Sensor and RPM Sensor along with their usage and the principles.",
+        "Got Acclimatized with microcontroller Arduino and its IDE and used it to test the above sensors."
+    ]
+},
+{
+    "input": "Laser Machining of Composites",
+    "output": [
+        "Audited numerous processes such as cutting, drilling, welding, marking, engraving and cladding using lasers on Carbon Fiber based composites properties such as HAZ, Kerf width, etc.",
+        "Prepared a literature review, analysing the mentioned properties to decide ideal laser characteristics."
+    ]
+},
+{
+    "input": "XLR8- Remote Controlled Bot",
+    "output": [
+        "Assembled a Bluetooth Controlled Bot with On-board power supply capable of negotiating obstacles in a team of 4.",
+        "Used ATtiny and L293D to develop a differential steering mechanism and implemented it in the bot.",
+        "Designed the electrical circuit and optimised the bot to complete an obstacle course of 8 obstacles."
+    ]},
+
+
+
+{
+    "input": "ion and Data Acquisition as Junior Design Engineer.",
+    "output": [
+        "Designed the peripheral circuitry of CAN Transceiver SN6SHVD231 on Eagle and tested it using Teensy 3.2",
+        "Worked on the replacement of TEENSY microcontroller with the more robust AT MEGA16m1 in CAN nodes"
+    ]
+},
+{
+    "input": "Hypothesis Testing in Python",
+    "output": [
+        "Used the t-distribution statistical method to test the validity of multiple commonly accepted claims such as “University towns had their mean housing prices less effected during the 2008 depression”",
+        "Extensively used Pandas and NumPy to carry out required data manipulation and SciPy for final juxtaposition"
+    ]
+},
+{
+    "input": "Kaggle Projects | Subsidiary of Google LLC Summer",
+    "output": [
+        "Housing prices, Regression: Predicted lowa housing prices based on 79 different features with MSE below 0.",
+        "Titanic, Classification: Predicted survival of passengers based on 11 features with 80% accuracy."
+    ]},
+
+{
+    "input": "Twitter Sentiment Analysis - Natural Language Processing (NLP), Self Project",
+    "output": [
+        "Fetched tweets data from Twitter using Twitter API and unique tweet ID, followed by further pre-processing involving lower case conversion, removal of URLs, usernames, hashes, etc.",
+        "Developed a model to classify tweets as “positive”, “negative” or “neutral” using Naive Bayes Classifier from nltk library. Trained the model on 3000 hand-annotated tweets from Neik Sanders’s corpus, achieving 90% training accuracy and 78% testing accuracy."
+    ]
+},
+{
+    "input": "Team Member, Software Subsystem - Team STRIDE, IIT Bombay",
+    "output": [
+        "Part of a two-tiered team of 16 members by the name STRIDE, which is a student technical team developing an autonomous quadruped bot for easy maneuvering through difficult terrain.",
+        "Channelized IMU data from MPU6050 sensor using ROS Custom Message and augmented it with odometry data from wheel encoders to obtain a more accurate estimate of the bot’s position and orientation."
+    ]},
+
+
+{
+    "input": "Leading a 2-tier team of 250+ volunteers for planning and execution of 100+ events at 40+ venues",
+    "output": [
+        "Negotiating with 250+ artists, 50+ vendors to curate 100+ events worth INR 4M ina budget of INR M",
+        "Designing interactive customized BTL guerrilla marketing activations for elite sponsors like Tinder, etc",
+        "Developing 9 lounges, strategically placing them across 550+ acres to improve the overall experience",
+        "Key Initiatives: Orchestrated ‘Indoor Indigo’, series of 10+ competitions and 25+ Instagram lives reaching a 100K+ audience",
+        "Introducing 10+ International trends like Synchronized Swimming, Pen-pal, Mono-wheeling to Indian crowd",
+        "Devising a multi-level marketing plan for boosting the reach of Pre-fest Partnerships in over 8+ major cities",
+        "Revamping the model of Hysteria to create a sustainable revenue source and promoting its pan India expansion"
+    ]
+},
+{
+    "input": "Marketing Intern, Doxper, Mumbai",
+    "output": [
+        "Helped in arranging and executing Doxper’s exhibition at Medicall, India’s largest Medical Equipment Expo, with a footfall of over 2000+ medical professionals and 750+ exhibitors from over 20+ countries",
+        "Participated in brain-storming sessions for devising various marketing strategies and branding campaigns",
+        "Contributed towards ideation and creation of content for online platforms like Facebook, Instagram, LinkedIn, etc. catering to over 1400+ followers and ensured effective customer interaction through calling campaigns"
+    ]
+},
+{
+    "input": "Marketing Intern, Mood Indigo, IIT Bombay",
+    "output": [
+        "Devised a multi-level marketing plan for boosting the reach of Pre-fest Partnerships in over 8+ major cities",
+        "Revamped the model of Hysteria to create a sustainable revenue source and promoting its pan India expansion"
+    ]
+},
+{
+    "input": "JavaScript, MATLAB, Arduino IDE, SQL",
+    "output": [
+        "Developed a web-based application using JavaScript, HTML, and CSS for a client-server architecture.",
+        "Developed a MATLAB GUI for a real-time data acquisition system.",
+        "Developed an Arduino-based system for controlling a robotic arm.",
+        "Developed a database using SQL for a student management system."
+    ]
+},
+
+
+{
+    "input": "Quantum Physics and Applications, Electricity and Magnetism, Organic and Inorganic Chemistry, Physical Chemistry Mechanical Core Courses Structural Materials, Fluid Mechanics*, Thermodynamics, Solid Mechanics* , Manufacturing Processes*, Mechanical Measurements, Strength of Materials Others Economics, Biology, Engineering Drawing +accompanied by Lab",
+    "output": [
+        "Thermodynamics and Molecular Simulation",
+        "(Feb’2020 - present)\n* Studied briefly about ensembles, Monte Carlo Simulation techniques and force-field models\n* Used MCCCS Towhee for performing the Gibbs Ensemble Monte Carlo Simulation for the study of Vapour-Liquid Equilibrium of different hydrocarbons viz; n-pentane, 1-butene, 2,2-dimethylpropane, etc.\n* Currently working on modifying the TraPPE-UA force field to incorporate interaction parameters of acetonitrile",
+        "Core Courses",
+        "* Introduction to Numerical Analysis\n* Computer Programming\n* Introduction to Data Analysis\n* Computational Methods Lab\n* Chemical Engineering Thermodynamics I & IT\n* Process Fluid Mechanics."
+    ]},
+
+
+{
+    "input": "Music",
+    "output": [
+        "Participated in various events of the music club including Band Making Session, Acoustic Dusk, Unplugged Session, and Surbahaar (2019)",
+        "Performed in National Alumni Meet of SJM SOM, IIT Bombay with a band (2019)",
+        "Awarded Special Mention for performing in IIT Bombay’s UG Freshmen Solo Classical Vocals Competition in “Freshiezza” (2018)",
+        "Qualified Madhyama purna (5th-year exam) in Hindustani Classical Music from Akhil Bhartiya Gandharva Mahavidyalay Mandal, Mumbai (2014)"
+    ]
+},
+{
+    "input": "Dance",
+    "output": [
+        "Completed Madhyama Pratham (4th-year exam) in Bharatnatyam from Akhil Bhartiya Gandharva Mahavidyalay Mandal, Mumbai (2010)"
+    ]
+},
+
+
+{
+    "input": "Marketing Intern | Doxper | Mumbai",
+    "output": [
+        "Helped in arranging and executing Doxper’s exhibition at Medicall, India’s largest Medical Equipment Expo, with a footfall of over 2000+ medical professionals and 750+ exhibitors from over 20+ countries",
+        "Participated in brain-storming sessions for devising various marketing strategies and branding campaigns",
+        "Contributed towards ideation and creation of content for online platforms like Facebook, Instagram, LinkedIn, etc. catering to over 1400+ followers and ensured effective customer interaction through calling campaigns"
+    ]
+},
+
+
+{
+    "input": "Bombay Asia’s largest college cultural festival | Footfall - 146,000+ | 240+ events | 1700+ participating colleges",
+    "output": [
+        "Reconstructed and revamped the rules of Mood Indigo’s classical solo singing competition “Surshringar”",
+        "Planned and executed the competition finale catering to over 60+ participants from colleges across the country"
+    ]
+}
+]
